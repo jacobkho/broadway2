@@ -1,0 +1,19 @@
+h1 {
+  color: White;
+  font-size: 70px;
+  font-weight: bold;
+}
+
+.hero {
+  background-image: url("../image/the-flatiron-building.png")
+}
+
+.btn-nav {
+  font-size: 18px;
+  color: white;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
